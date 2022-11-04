@@ -8,13 +8,13 @@ If you make use of this dataset, please reference to the following article (http
 
 ## Content
 
-* `Package`: this folder contains the file `contact_matrices.py` which is a source file to easily and use the code.
+* `Package`: this folder contains the file `contact_matrices.py` which is a source file to easily use the code.
 * `CM.pkl`: pickle file containing the contact matrices.
 * `PHIRST contact matrices.ipynb`: jupyter notebook containing the instructions to use and access the data.
 
 ## Requirements
 
-The codes run on `Python 3.9.7`. Provided that you installed [Anaconda](), you can obtain it creating an environment as follows
+The codes run on `Python 3.9.7`. Provided that you installed [Anaconda](https://www.anaconda.com/products/distribution), you can obtain it creating an environment as follows
 
 ```
 conda create -n environment_name python=3.9.7
@@ -24,7 +24,7 @@ conda install jupyter
 jupyter notebook
 ```
 
-in between you will be required to install some packages and you should accept to go one. We used the following packages
+in between you will be required to install some packages and you should accept to go on. We used the following packages
 
 > - pickle==4.0
 > - numpy==1.20.3
