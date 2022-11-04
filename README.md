@@ -2,7 +2,7 @@
 
 We here share the contact matrices measured by the [PHIRST](https://crdm.nicd.ac.za/projects/phirst-c/) project with the [SocioPatterns](http://www.sociopatterns.org/) collaboration in South-Africa. The contact matrices are aggregated by household and deployment.
 
-If you make use of this dataset, please reference the following is referred to the following article which the data refer to.
+If you make use of this dataset, please reference to the following article (https://doi.org/10.21203/rs.3.rs-2108731/v1).
 
 > Dall’Amico et al: *Estimating household contact matrices structure from easily collectable metadata,* (2022)
 
