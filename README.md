@@ -10,7 +10,8 @@ If you make use of this dataset, please reference to the following article (http
 
 * `Package`: this folder contains the file `contact_matrices.py` which is a source file to easily use the code.
 * `CM.pkl`: pickle file containing the contact matrices.
-* `PHIRST contact matrices.ipynb`: jupyter notebook containing the instructions to use and access the data.
+* `PHIRST contact matrices.ipynb`: jupyter notebook containing the instructions to use and access the data. Note that `C_sec = S` and `C_counts = C` according to the current paper notation
+* `csv`: in this folder there are 4 compressed *zip* files, named `C, S, P, T`, containing the respective HCM for all household-deployment pairs in *csv* format.
 
 ## Requirements
 
