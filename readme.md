@@ -6,8 +6,23 @@ We here share the contact matrices measured by the [PHIRST](https://crdm.nicd.ac
 
 If you make use of this dataset, please reference the following is referred to the following article which the data refer to.
 
-> Dall’Amico et al: *Estimating household contact matrices structure from easily collectable metadata,* (2022)
+```
+@article{DallAmico2024Estimating,
+    doi = {10.1371/journal.pone.0296810},
+    author = {Dall’Amico, Lorenzo AND Kleynhans, Jackie AND Gauvin, Laetitia AND Tizzoni, Michele AND Ozella, Laura AND Makhasi, Mvuyo AND Wolter, Nicole AND Language, Brigitte AND Wagner, Ryan G. AND Cohen, Cheryl AND Tempia, Stefano AND Cattuto, Ciro},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {Estimating household contact matrices structure from easily collectable metadata},
+    year = {2024},
+    month = {03},
+    volume = {19},
+    url = {https://doi.org/10.1371/journal.pone.0296810},
+    pages = {1-13},
+    abstract = {Contact matrices are a commonly adopted data representation, used to develop compartmental models for epidemic spreading, accounting for the contact heterogeneities across age groups. Their estimation, however, is generally time and effort consuming and model-driven strategies to quantify the contacts are often needed. In this article we focus on household contact matrices, describing the contacts among the members of a family and develop a parametric model to describe them. This model combines demographic and easily quantifiable survey-based data and is tested on high resolution proximity data collected in two sites in South Africa. Given its simplicity and interpretability, we expect our method to be easily applied to other contexts as well and we identify relevant questions that need to be addressed during the data collection procedure.},
+    number = {3},
 
+}
+```
 ## Content
 
 * `src`: this folder contains the python scripts with the relevant codes to reproduce the result in our paper
